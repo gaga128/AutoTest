@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
+    <title>BD Test Tools</title>
+</head>
+
+<script type="text/javascript" language="javascript">
+
+ function test(){  //失去焦点时执行的函数
+  if(span0.value!="admin"){
+   span1.innerText = "用户名不能使用" ;
+  }
+
+ }
+ function test1(){  //获得焦点时执行的函数
+
+  span1.innerText = "" ;
+ }
+</script>
+</head>
+
+<body bgcolor="#f5f5dc">
+<h1>BD Test Tools</h1>
+<form action="/Users/admin/Documents/AutoTest/BDTestTools/templates/Log_input.html" method="='GET">
+<div class="Param-config">
+<br>
+username: <input id="username" name="username" type="text" placeholder="username" /><br /> <br />
+password: <input id="password" name="password" type="text" placeholder="password"/><br /> <br />
+
+<input type="submit" value="提交">
+
+
+
+</div>
+</form>
+</body>
+</html>

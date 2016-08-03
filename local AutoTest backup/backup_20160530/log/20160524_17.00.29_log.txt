@@ -1,0 +1,32 @@
+Tue,24 May 2016 17:00:29_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 17:00:29_INFO-->flag:3,Eflag:200
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None
+Tue,24 May 2016 17:00:29_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 17:00:29_INFO-->None

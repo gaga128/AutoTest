@@ -1,0 +1,4 @@
+Tue,24 May 2016 11:36:56_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 11:36:56_INFO-->flag:3,Eflag:200
+Tue,24 May 2016 11:37:09_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 11:37:09_INFO-->flag:200,Eflag:3

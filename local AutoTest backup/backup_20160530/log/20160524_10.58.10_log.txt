@@ -1,0 +1,44 @@
+Tue,24 May 2016 10:58:10_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 10:58:10_INFO-->None
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:200,Eflag:3
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:200,Eflag:3
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:3,Eflag:200
+Tue,24 May 2016 10:58:10_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 10:58:10_INFO-->None
+Tue,24 May 2016 10:58:10_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 10:58:10_INFO-->None
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:3,Eflag:200
+Tue,24 May 2016 10:58:10_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 10:58:10_INFO-->None
+Tue,24 May 2016 10:58:10_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 10:58:10_INFO-->None
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:3,Eflag:200
+Tue,24 May 2016 10:58:10_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 10:58:10_INFO-->None
+Tue,24 May 2016 10:58:10_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 10:58:10_INFO-->None
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:3,Eflag:200
+Tue,24 May 2016 10:58:10_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 10:58:10_INFO-->None
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:200,Eflag:3
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:3,Eflag:200
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:3,Eflag:200
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong datas
+Tue,24 May 2016 10:58:10_INFO-->datas:执行失败,Edatas:{u'detail': [], u'totalRecordSize': 0}
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong datas
+Tue,24 May 2016 10:58:10_INFO-->datas:执行失败,Edatas:{u'detail': [], u'totalRecordSize': 0}
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:3,Eflag:200
+Tue,24 May 2016 10:58:10_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 10:58:10_INFO-->None
+Tue,24 May 2016 10:58:10_ERROR-->n:FAIL:wrong flag
+Tue,24 May 2016 10:58:10_INFO-->flag:200,Eflag:3

@@ -1,0 +1,4 @@
+Tue,24 May 2016 12:08:37_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 12:08:37_INFO-->None
+Tue,24 May 2016 12:08:37_ERROR-->n:PASS:same datas&desc&flag
+Tue,24 May 2016 12:08:37_INFO-->None

@@ -1,0 +1,2 @@
+Wed,25 May 2016 11:39:22_ERROR-->n:FAIL:wrong flag
+Wed,25 May 2016 11:39:22_INFO-->flag:3,Eflag:200

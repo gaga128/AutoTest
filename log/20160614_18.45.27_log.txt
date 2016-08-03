@@ -1,0 +1,132 @@
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:FAIL:wrong datas
+Tue,14 Jun 2016 18:45:27_INFO-->datas:{u'detail': [{u'province': u'\u6cb3\u5317', u'city': u'\u5510\u5c71', u'subscribe_time': 1411560203, u'subscribe_status': 1, u'openid': u'172139920,oLceXjguF4FiaZdCNP7moDxmWBes', u'nick_name': u'\u9a6c\u54e5', u'life_cycle': u'Mature Consumer', u'sex': 1, u'active_val': 0.38832393, u'spread': -1, u'appid': 172139920, u'viscosity_val': 0.40302217, u'uid': u'oLceXjguF4FiaZdCNP7moDxmWBes', u'loyalty_val': 0.38832393, u'unsubscribe_time': 0}], u'totalRecordSize': 1},Edatas:{u'detail': [{u'province': u'unknown', u'city': u'unknown', u'subscribe_time': 1458127377, u'subscribe_status': 1, u'openid': u'172139920,oLceXjgSBHGoe4vw0Y-BBH8G7LEE', u'nick_name': u'\u6d45\u5531', u'life_cycle': u'Mature Consumer', u'sex': 1, u'active_val': 0.1317885, u'spread': -1, u'appid': 172139920, u'viscosity_val': 0.03305337, u'uid': u'oLceXjgSBHGoe4vw0Y-BBH8G7LEE', u'loyalty_val': 0.1317885, u'unsubscribe_time': 0}, {u'province': u'unknown', u'city': u'unknown', u'subscribe_time': 1453717915, u'subscribe_status': 1, u'openid': u'172139920,oLceXjgsO6-WXf5g5PQH986_F4W4', u'nick_name': u'\u2167', u'life_cycle': u'Mature Consumer', u'sex': 0, u'active_val': 0.1696899, u'spread': -1, u'appid': 172139920, u'viscosity_val': 0.11146017, u'uid': u'oLceXjgsO6-WXf5g5PQH986_F4W4', u'loyalty_val': 0.1696899, u'unsubscribe_time': 0}, {u'province': u'\u7518\u8083', u'city': u'\u5170\u5dde\u5e02', u'subscribe_time': 1441706057, u'subscribe_status': 1, u'openid': u'172139920,oLceXjgoI1OloZFVKoFoHzL5BqVY', u'nick_name': u'\u8c31\u5199\u81ea\u5df1ed\u4eba\u924e', u'life_cycle': u'Mature Consumer', u'sex': 1, u'active_val': 0.32005307, u'spread': -1, u'appid': 172139920, u'viscosity_val': 0.11146017, u'uid': u'oLceXjgoI1OloZFVKoFoHzL5BqVY', u'loyalty_val': 0.32005307, u'unsubscribe_time': 0}, {u'province': u'\u6cb3\u5317', u'city': u'\u5510\u5c71', u'subscribe_time': 1411560203, u'subscribe_status': 1, u'openid': u'172139920,oLceXjguF4FiaZdCNP7moDxmWBes', u'nick_name': u'\u9a6c\u54e5', u'life_cycle': u'Mature Consumer', u'sex': 1, u'active_val': 0.38832393, u'spread': -1, u'appid': 172139920, u'viscosity_val': 0.40302217, u'uid': u'oLceXjguF4FiaZdCNP7moDxmWBes', u'loyalty_val': 0.38832393, u'unsubscribe_time': 0}, {u'province': u'\u798f\u5efa', u'city': u'\u53a6\u95e8', u'subscribe_time': 1459755319, u'subscribe_status': 1, u'openid': u'172139920,oLceXjgEVg5NWT0HM31I-e3rAZzI', u'nick_name': u'\u611f\u8c22\u7ecf\u5386', u'life_cycle': u'Mature Consumer', u'sex': 1, u'active_val': 0.3946809, u'spread': -1, u'appid': 172139920, u'viscosity_val': 0.15514578, u'uid': u'oLceXjgEVg5NWT0HM31I-e3rAZzI', u'loyalty_val': 0.3946809, u'unsubscribe_time': 0}], u'totalRecordSize': 5}
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:27_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:27_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:30_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:30_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None
+Tue,14 Jun 2016 18:45:31_ERROR-->n:PASS:same datas&desc&flag
+Tue,14 Jun 2016 18:45:31_INFO-->None

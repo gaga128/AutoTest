@@ -1,0 +1,12 @@
+Mon,23 May 2016 19:12:15_ERROR-->n:PASS:same datas&desc&flag
+Mon,23 May 2016 19:12:15_INFO-->None
+Mon,23 May 2016 19:12:15_ERROR-->n:PASS:same datas&desc&flag
+Mon,23 May 2016 19:12:15_INFO-->None
+Mon,23 May 2016 19:12:15_ERROR-->n:PASS:same datas&desc&flag
+Mon,23 May 2016 19:12:15_INFO-->None
+Mon,23 May 2016 19:12:15_ERROR-->n:PASS:same datas&desc&flag
+Mon,23 May 2016 19:12:15_INFO-->None
+Mon,23 May 2016 19:12:15_ERROR-->n:PASS:same datas&desc&flag
+Mon,23 May 2016 19:12:15_INFO-->None
+Mon,23 May 2016 19:12:15_ERROR-->n:PASS:same datas&desc&flag
+Mon,23 May 2016 19:12:15_INFO-->None

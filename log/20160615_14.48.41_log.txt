@@ -1,0 +1,4 @@
+Wed,15 Jun 2016 14:48:41_ERROR-->n:PASS:same datas&desc&flag
+Wed,15 Jun 2016 14:48:41_INFO-->None
+Wed,15 Jun 2016 14:48:41_ERROR-->n:PASS:same datas&desc&flag
+Wed,15 Jun 2016 14:48:41_INFO-->None
